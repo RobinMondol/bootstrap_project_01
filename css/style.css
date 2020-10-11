@@ -1,0 +1,120 @@
+*{margin: 0;padding: 0 auto;}
+
+body{
+   
+
+   
+}
+
+.mainmenu{
+    background: black;
+}
+.mainmenu img{
+    width: 170px;
+}
+.banner{
+    background-image:url("../images/banner-bg.jpg");
+    height: 410px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.banner h2{
+    margin-left: 110px;
+    padding-top: 48px;
+    font-family: revert;
+    font-weight: 400;
+}
+.banner p{
+    margin-left: 110px;
+    padding-top: 3px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 600;
+}
+.batton1{
+    margin-left: 110px;
+}
+.content1 h2{
+    text-align: center;
+    font-size: 39px;
+    font-family: inherit;
+    margin-top: 71px;
+    color: brown;
+}
+.four_part{
+
+    
+}
+.single-section{
+padding-top: 100px;
+}
+.single-section h2{
+    font-size: 23px;
+    font-weight: 500;
+    color: darkslateblue;
+    text-align: center;  
+}
+.single-section img{
+    border-radius: 50%;
+    width: 154px;
+    height: 154px;
+    display: block;
+    margin: 0 auto;
+}
+.single-section p{
+    text-align: center;
+    font-size: 15px;
+    padding: 14px;
+}
+.single-section button{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+
+}
+.part_one{
+
+}
+.part_one h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 41px;
+    font-weight: 600;
+    padding-top: 18px;
+    color: brown;
+   
+}
+.part_one p{
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+}
+.box_one{
+    background: #F3F2F3;
+    margin-top: 141px;
+    padding-bottom: 52px;
+    padding-top: 52px;
+}
+.footer{
+    text-align: center;
+}
+.footer h2{
+    
+    padding-top: 242px;
+    font-size: 23px;
+}
+
+.footer p{
+    font-size: 13px;  
+    
+}
+.font_icone{
+    
+    font-size: 25px;
+}
+.font_icone ul li :hover{
+    background:green;
+}
